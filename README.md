@@ -1,4 +1,15 @@
-# GIOVANNY-313
+# Gastos de Consola
+
+Aplicación de consola en C# para registrar y consultar gastos, conectada a una base de datos SQL Server (GastosDB).
+
+## Base de datos
+
+Ejecuta el script CrearGastosDB.sql para crear la tabla Gastos con datos de ejemplo (Almuerzo, Gasolina, Cine).
+
+## Capturas
+
+
+
 ![Escenario 1](capturas/escenario1.png)
 
 
